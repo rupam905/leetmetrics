@@ -1,2 +1,2 @@
-# leetmetrics
-Leetcode profile stats site
+# Leetmetrics
+Leetcode profile stats 
