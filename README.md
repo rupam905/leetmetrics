@@ -19,6 +19,6 @@ Easy-to-use interface: simply enter the username to fetch data.
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript
 
-- API Integration: LeetCode API
+- **API Integration**: LeetCode API
